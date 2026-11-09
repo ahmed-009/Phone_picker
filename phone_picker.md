@@ -229,7 +229,7 @@ The interface embraces a continuous curved silhouette that matches physical smar
 ### Floating Bottom Navigation
 - **Dock Layout:** Fixed bottom floating bar spanning `calc(100% - 32px)`, elevated 12px above bottom screen margin.
 - **Surface:** Glassmorphic slate (`rgba(17, 24, 39, 0.85)`, `backdrop-filter: blur(20px)`), with 20px corner radius and `rgba(255, 255, 255, 0.10)` stroke.
-- **Tabs (3 slots):**
+- **Tabs (3 slots):** 
   1. **الهواتف (Phones):** Icon `Smartphone`, label underneath.
   2. **المقارنة (Compare):** Icon `Columns2` (or `Scale`), label underneath, accompanied by an active numerical badge indicating selected devices count (e.g., "2").
   3. **إضافة (Add):** Center or flanking slot with an highlighted icon `PlusCircle` colored in `#00E5FF`.
